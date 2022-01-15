@@ -25,3 +25,5 @@ To open the user_interface:
   
 - Open jupyter notebook, or jupyter lab;
 - From one of the two software open "user_notebook_interface.ipynb" located in the folder notebooks
+
+we can find the documentation on separate branch named "master" for convienience
